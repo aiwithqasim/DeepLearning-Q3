@@ -68,5 +68,5 @@ Please do __NOT__ include any of the project data sets provided in the `dogImage
 
 ### BLOG LINK
 
-<a href = "">BLOG LINK</a>
+<a href = "https://github.com/qasim1020/DeepLearning-Q3/blob/Work/DogBreedClassification/Proposal%20%26%20Report/Report.pdf">Report Link</a>
 
